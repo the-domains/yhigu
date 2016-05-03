@@ -1,0 +1,28 @@
+name: yhigu
+favicon: null
+layout_spectrum: 0.5633492395281792
+typography_spectrum: 0.19870366132818162
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.715108307544142
+  lightness: 0.3644448348786682
+  saturation: 0.06648378819227219
+  rhythmicContrast: 0.7805436220951378
+purpose: []
